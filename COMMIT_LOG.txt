@@ -1,0 +1,32 @@
+7306065 | 2026-07-15 | 3 files, 114 lines
+Enhance security guidelines for mobile apps in SKILL.md and add mobile-security.md for React Native/Expo and Flutter projects
+----
+db17648 | 2026-07-03 | 1 files, 0 lines
+Update installation instructions in README.md and add skills.png asset
+----
+3e8a813 | 2026-07-03 | 1 files, 18 lines
+Remove donation information from Donation.md
+----
+14342f7 | 2026-07-03 | 1 files, 0 lines
+Restore donation information in Donation.md to support BghitCode funding channels
+----
+acc94af | 2026-07-03 | 1 files, 0 lines
+Reintroduce donation information in Donation.md to support BghitCode funding channels
+----
+eb7df54 | 2026-07-03 | 1 files, 1 lines
+Add 'agents' directory to .gitignore to prevent tracking of agent files
+----
+598435a | 2026-07-03 | 1 files, 4 lines
+Update README.md to clarify Securly's purpose and enhance attribution for BghitCode
+----
+4ce0112 | 2026-07-03 | 1 files, 2 lines
+Include LICENSE file for project
+----
+da67940 | 2026-07-03 | 1 files, 468 lines
+Update README.md to enhance security guidelines and clarify Securly's functionality for AI agents
+----
+8a10a0e | 2026-07-03 | 4 files, 130 lines
+Add funding information and donation links to support BghitCode
+----
+01e6f23 | 2026-07-03 | 8 files, 387 lines
+Add Securly skill: agent, LLM, and OWASP security guidelines
