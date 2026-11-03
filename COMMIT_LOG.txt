@@ -1,3 +1,10 @@
+63b11d7 | 2026-11-03 | 4 files, 101 lines
+Add COMMIT_LOG.txt generator and CI workflow
+Every repo now carries a plain-text log of its commit messages
+(scripts/commit-log.sh), refreshed by a GitHub Action, so the
+jimkasper.net Deploy panel can import it with the project and show
+it as a changelog on the Apps page.
+----
 7306065 | 2026-07-15 | 3 files, 114 lines
 Enhance security guidelines for mobile apps in SKILL.md and add mobile-security.md for React Native/Expo and Flutter projects
 ----
